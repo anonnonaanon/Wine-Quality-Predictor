@@ -10,7 +10,7 @@ st.write("""
 # Wine Quality Prediction App
 
 This app predicts the **Quality of red wine**! 
-         The kernel of the model is Random Classifier algorithm that predict quality of wine based on your input parameters. 
+         The kernel of the model is Random Forest Classifier algorithm that predict quality of wine based on your input parameters. 
          Enjoy and do not drink much!! 
 """)
 st.write('---')
